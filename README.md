@@ -11,3 +11,10 @@
 <!--
 - ⚡ Fun fact: ...
 -->
+
+Developed projects：
+ADMETlab 2.0: https://admetmesh.scbdd.com/
+OptADMET: https://cadd.nscc-tj.cn/deploy/optadmet/
+ChemMORT: https://cadd.nscc-tj.cn/deploy/chemmort/
+ChemFH: https://chemfh.scbdd.com/
+DDinter: http://ddinter.scbdd.com/
