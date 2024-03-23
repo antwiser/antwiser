@@ -14,7 +14,7 @@
 
 Developed projects：
 
-- ADMETlab 3.0: http://admetlab3.scbdd.com/
+- ADMETlab 3.0: https://admetlab3.scbdd.com/
 - ADMETlab 2.0: https://admetmesh.scbdd.com/
 - OptADMET: https://cadd.nscc-tj.cn/deploy/optadmet/
 - ChemMORT: https://cadd.nscc-tj.cn/deploy/chemmort/
