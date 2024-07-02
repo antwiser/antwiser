@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on applications of deep learning for moculelar generation & optimization.
 - 🌱 I’m currently learning about diffusion model.
-- 💬 Ask me about deep learning, artificial intelligence, bioinformatics, drug design, music, life, etc.
+- 💬 Ask me about artificial intelligence, drug design, life, etc.
 - 📫 How to reach me: Email. (yjc@nudt.edu.cn)
 - 😄 Pronouns: Mr. Ant.
 
@@ -20,3 +20,4 @@ Developed projects：
 - ChemMORT: https://cadd.nscc-tj.cn/deploy/chemmort/
 - ChemFH: https://chemfh.scbdd.com/
 - DDinter: http://ddinter.scbdd.com/
+- DDinter 2.0: https://ddinter2.scbdd.com/
